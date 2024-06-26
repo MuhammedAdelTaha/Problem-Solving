@@ -49,8 +49,3 @@ public:
 # Comments
 - **Time Complexity:** $O(n)$
 - **Space Complexity:** $O(1)$
-# Similar Questions
-- [[Group Anagrams]]
-- [[Palindrome Permutation]]
-- [[Find All Anagrams in a String]]
-- [[Find Resultant Array After Removing Anagrams]]

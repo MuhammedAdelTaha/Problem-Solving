@@ -47,7 +47,3 @@ public:
 # Comments
 - **Time Complexity:** $O(n)$
 - **Space Complexity:** $O(n)$
-# Similar Questions
-- [[Contains Duplicate II]].
-- [[Contains Duplicate III]].
-- [[Make Array Zero by Subtracting Equal Amounts]].

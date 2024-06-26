@@ -44,6 +44,3 @@ public:
 # Comments
 - **Time Complexity:** $O(n^2)$
 - **Space Complexity:** $O(1)$
-# Similar Questions
-- [[Contains Duplicate]]
-- [[Contains Duplicate III]]
