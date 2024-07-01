@@ -5,6 +5,9 @@ tags:
   - Hash-Table
   - Sliding-Window
 difficulty: Easy
+creation_day: 1
+creation_month: 7
+creation_year: 2024
 ---
 # Problem Statement
 Given an integer array `nums` and an integer `k`, return `true` _if there are two **distinct indices**_ `i` _and_ `j` _in the array such that_ `nums[i] == nums[j]` _and_ `abs(i - j) <= k`.

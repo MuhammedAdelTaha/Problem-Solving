@@ -4,6 +4,9 @@ tags:
   - Array
   - Hash-Table
 difficulty: Easy
+creation_day: 1
+creation_month: 7
+creation_year: 2024
 ---
 # Problem Statement
 Given an array of integers `nums` and an integer `target`, return _indices of the two numbers such that they add up to `target`_.

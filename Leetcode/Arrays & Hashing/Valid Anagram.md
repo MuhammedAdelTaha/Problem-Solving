@@ -5,6 +5,9 @@ tags:
   - String
   - Sorting
 difficulty: Easy
+creation_day: 1
+creation_month: 7
+creation_year: 2024
 ---
 # Problem Statement
 Given two strings `s` and `t`, return `true` _if_ `t` _is an anagram of_ `s`_, and_ `false` _otherwise_.

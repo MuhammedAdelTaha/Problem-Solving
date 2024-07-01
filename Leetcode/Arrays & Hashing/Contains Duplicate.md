@@ -5,6 +5,9 @@ tags:
   - Hash-Table
   - Sorting
 difficulty: Easy
+creation_day: 1
+creation_month: 7
+creation_year: 2024
 ---
 # Problem Statement
 Given an integer array `nums`, return `true` if any value appears **at least twice** in the array, and return `false` if every element is distinct.
